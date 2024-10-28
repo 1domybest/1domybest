@@ -36,8 +36,8 @@
 <p style="margin-bottom: 10px;">
     <img src="https://www.svgrepo.com/show/452110/swift.svg" alt="swift" width="40"  /> <!-- Swift --> &nbsp;
     <img src="https://www.svgrepo.com/show/353980/kotlin.svg" alt="kotlin" width="40"  /> <!-- Kotlin -->&nbsp;
-    <img src="https://www.svgrepo.com/show/452234/java.svg" alt="java" width="40"  /> <!-- Java -->&nbsp;
     <img src="https://www.svgrepo.com/show/349419/javascript.svg" alt="javascript" width="40"  /> <!-- JavaScript -->
+    <img src="https://www.svgrepo.com/show/452234/java.svg" alt="java" width="40"  /> <!-- Java -->&nbsp;
 </p>
 
 <h4 align="left">FrameWork</h4>
