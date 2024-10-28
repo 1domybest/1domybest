@@ -11,6 +11,36 @@
 <h1>Currently participating in a product</h1>
 
 <br>
+  
+<h2>
+      HYPY 
+      
+<a href="https://apps.apple.com/kr/app/hypy/id6476086514" target="blank">
+      &nbsp;
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/App_Store_%28iOS%29.svg/1024px-App_Store_%28iOS%29.svg.png" alt="gautamkrishnar" height="25" width="25" />
+    
+</a>
+</h2>
+
+<br>
+
+<h3>Features I Developed</h3>
+
+ - Comprehensive camera functionality, including zoom, flash, and ultra-wide camera support.
+ - Facial filters.
+ - Live streaming using RTMP.
+ - Real-time chat functionality using WebSockets.
+ - Custom text popups and bottom sheets built with UIKit.
+ - Integrated structure combining UIKit and SwiftUI.
+
+   
+<h3>Tech Stack Used</h3>
+
+ - Swift
+ - SwiftUI
+ - UIKit
+ - Objective-C
+
 <br>
 
 <a href="https://apps.apple.com/kr/app/baund/id1530310901" target="blank">
@@ -60,34 +90,7 @@
 
 <br>
 
-<h2>
-      HYPY 
-      
-<a href="https://apps.apple.com/kr/app/hypy/id6476086514" target="blank">
-      &nbsp;
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/App_Store_%28iOS%29.svg/1024px-App_Store_%28iOS%29.svg.png" alt="gautamkrishnar" height="25" width="25" />
-    
-</a>
-</h2>
 
-<br>
-
-<h3>Features I Developed</h3>
-
- - Comprehensive camera functionality, including zoom, flash, and ultra-wide camera support.
- - Facial filters.
- - Live streaming using RTMP.
- - Real-time chat functionality using WebSockets.
- - Custom text popups and bottom sheets built with UIKit.
- - Integrated structure combining UIKit and SwiftUI.
-
-   
-<h3>Tech Stack Used</h3>
-
- - Swift
- - SwiftUI
- - UIKit
- - Objective-C
 
 
 
