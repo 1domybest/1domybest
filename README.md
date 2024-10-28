@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm OTIS</h1>
 <h3 align="center">A IOS developer from Korea</h3>
+<h3 align="center">I am currently working as an iOS developer at a company in Korea called IDID.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1domybest&label=Profile%20views&color=0e75b6&style=flat" alt="1domybest" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1domybest" alt="1domybest" /></a> </p>
 
-<h4>I am currently working as an iOS developer at a company in Korea called IDID.</h4> <br>
+<br>
 
 <h1>Currently participating in a product</h1>
 
