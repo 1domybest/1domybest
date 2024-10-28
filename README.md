@@ -20,31 +20,57 @@
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
 
-  - <a href="dhstjrxo123@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-
-  - <a href="https://www.instagram.com/oooo_nn/profilecard/?igsh=c256NWFwa3ZwZHF3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-
-</p>
+<a href="mailto:dhstjrxo123@gmail.com">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email Icon" height="40" width="40"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/oooo_nn/profilecard/?igsh=c256NWFwa3ZwZHF3" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="40" width="40" />
+</a>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-    <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
-    <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
-    <a href="https://realm.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> </a>
-    <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
-    <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
-    <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a>
+<p align="left"> 
+
+<h4 align="left">Languages</h4>
+<p style="margin-bottom: 10px;">
+    <img src="https://www.svgrepo.com/show/452110/swift.svg" alt="swift" width="40"  /> <!-- Swift --> &nbsp;
+    <img src="https://www.svgrepo.com/show/353980/kotlin.svg" alt="kotlin" width="40"  /> <!-- Kotlin -->&nbsp;
+    <img src="https://www.svgrepo.com/show/452234/java.svg" alt="java" width="40"  /> <!-- Java -->&nbsp;
+    <img src="https://www.svgrepo.com/show/349419/javascript.svg" alt="javascript" width="40"  /> <!-- JavaScript -->
+</p>
+
+<h4 align="left">FrameWork</h4>
+<p style="margin-bottom: 10px;">
+    <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" alt="swiftui" width="40"  /> <!-- SwiftUI -->&nbsp;
+    <img src="https://www.svgrepo.com/show/354484/uikit.svg" alt="uikit" width="40"  /> <!-- UIKit -->&nbsp;
+    <img src="https://www.svgrepo.com/show/354259/react.svg" alt="reactnative" width="40"  /> <!-- ReactNative -->&nbsp;
+    <img src="https://www.svgrepo.com/show/376350/spring.svg" alt="spring" width="40"  /> <!-- Spring -->
+</p>
+
+<h4 align="left">Platform</h4>
+<p style="margin-bottom: 10px;">
+    <img src="https://www.svgrepo.com/show/452233/ios.svg" alt="ios" width="40"  /> <!-- iOS -->&nbsp;
+    <img src="https://www.svgrepo.com/show/452155/android.svg" alt="android" width="40"  /> <!-- Android -->&nbsp;
+    <img src="https://www.svgrepo.com/show/477058/internet.svg" alt="web" width="40"  /> <!-- Web -->
+</p>
+
+<h4 align="left">Tools</h4>
+<p style="margin-bottom: 10px;">
+    <img src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png" alt="xcode" width="40"  /> <!-- Xcode -->&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/1024px-Android_Studio_Icon_3.6.svg.png?20210301045217" alt="androidstudio" width="40"  /> <!-- Android Studio --> &nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" alt="intellij" width="40"  /> <!-- IntelliJ --> &nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/800px-Figma-logo.svg.png" alt="figma" height="40"  /> <!-- Figma --> 
+</p>
+
+<h4 align="left">DataBase</h4>
+<p style="margin-bottom: 10px;">
+    <img src="https://www.svgrepo.com/show/354265/realm.svg" alt="realm" width="40"  /> <!-- Realm -->  &nbsp;
+    <img src="https://www.svgrepo.com/show/373595/firebase.svg" alt="firebase" width="40"  /> <!-- Firebase -->   &nbsp;
+    <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="sql" width="40" /> <!-- SQL --> 
+</p>
+
+
 </p>
 
 <p>
