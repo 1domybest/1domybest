@@ -10,9 +10,23 @@
 
 - 💻 I’m currently working on [Baund](https://apps.apple.com/kr/app/baund/id1530310901)
 
-- 🏃 I’m currently working on [Media Mananger For IPhone](https://github.com/1domybest/OTIS_CameraManager_Example)
 
-  
+<h3>These day im workin on </h3>
+- This is  simple camera app created using AVCaptureSession and AVCaptureMultiCamSession from AVFoundation >>> (https://github.com/1domybest/OTIS_CameraManager_Example)
+
+
+## Todo List
+
+- [x] Make CameraManager FrameWork and SMP For XCode <br>
+      - SMP (https://github.com/1domybest/CameraManagerLibrary) <br>
+      - Example (https://github.com/1domybest/OTIS_CameraManager_Example)
+- [ ] Make Documents For CameraManager
+- [ ] Make AudioManager FrameWork and SMP For XCode
+- [ ] Make CameraRecordMananger FrameWork and SMP For XCode
+- [ ] Make Video EncodeMananger FrameWork and SMP For XCode 
+- [ ] Make PermissionMananger FrameWork and SMP For XCode
+- [ ] make BlackBox Camera App [Could be different one just planning on it]
+- [ ] launching on AppStroe
   
 
 ### Blogs posts
