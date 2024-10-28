@@ -7,7 +7,7 @@
 
 <h4>I am currently working as an iOS developer at a company in Korea called IDID.</h4> <br>
 
-<h1>Below are the apps I have contributed to and am currently managing.</h1>
+<h1>Currently participating in a product</h1>
 
 <br>
 <br>
