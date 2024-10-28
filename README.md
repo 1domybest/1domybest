@@ -10,8 +10,14 @@
 
 <h1>Currently participating in a product</h1>
 
-<br>
+<br> 
   
+<a href="https://apps.apple.com/kr/app/hypy/id6476086514" target="blank">
+  <img align="center" src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/cd/1e/21cd1eb4-dab9-63e3-04f1-48604e6d8687/AppIcon-0-1x_U007emarketing-0-10-0-sRGB-85-220-0.png/460x0w.webp" alt="gautamkrishnar" height="70" width="70" />
+</a>
+
+<br>
+
 <h2>
       HYPY 
       
@@ -84,11 +90,7 @@
 <br><br>
 
 
-<a href="https://apps.apple.com/kr/app/hypy/id6476086514" target="blank">
-  <img align="center" src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/cd/1e/21cd1eb4-dab9-63e3-04f1-48604e6d8687/AppIcon-0-1x_U007emarketing-0-10-0-sRGB-85-220-0.png/460x0w.webp" alt="gautamkrishnar" height="70" width="70" />
-</a>
 
-<br>
 
 
 
