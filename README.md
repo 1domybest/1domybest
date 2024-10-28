@@ -28,7 +28,6 @@
 </a>
 </h2>
 
-<br>
 
 <h3>Features I Developed</h3>
 
@@ -48,7 +47,8 @@
  - Objective-C
 
 <br>
-
+<br>
+  
 <a href="https://apps.apple.com/kr/app/baund/id1530310901" target="blank">
   <img align="center" src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/6b/f5/136bf5c6-b319-8197-c3d9-da9a2f79fa80/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/460x0w.webp" alt="gautamkrishnar" height="70" width="70" />
 </a>
