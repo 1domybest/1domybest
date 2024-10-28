@@ -5,10 +5,99 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1domybest" alt="1domybest" /></a> </p>
 
+<h4>I am currently working as an iOS developer at a company in Korea called IDID.</h4> <br>
 
-- 💻 I’m currently working on [Hypy](https://apps.apple.com/kr/app/hypy/id6476086514)
+<h1>Below are the apps I have contributed to and am currently managing.</h1>
 
-- 💻 I’m currently working on [Baund](https://apps.apple.com/kr/app/baund/id1530310901)
+<br>
+<br>
+
+<a href="https://apps.apple.com/kr/app/baund/id1530310901" target="blank">
+  <img align="center" src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/6b/f5/136bf5c6-b319-8197-c3d9-da9a2f79fa80/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/460x0w.webp" alt="gautamkrishnar" height="70" width="70" />
+</a>
+
+<h2>
+      Baund 
+      
+<a href="https://apps.apple.com/kr/app/baund/id1530310901" target="blank">
+      &nbsp;
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/App_Store_%28iOS%29.svg/1024px-App_Store_%28iOS%29.svg.png" alt="gautamkrishnar" height="25" width="25" />
+      &nbsp;
+</a>
+
+<a href="https://play.google.com/store/apps/details?id=inc.idid.kiinrap&pcampaignid=web_share" target="blank">
+  <img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-play-store-icon.png" alt="gautamkrishnar" height="25" width="25" />
+      &nbsp;
+</a>
+</h2>
+
+<br>
+
+<h3>Features I Developed</h3>
+
+ - Camera
+ - Recording functionality
+ - AR face filters
+ - Encoding with FFMPEG and custom watermark creation
+ - Video and audio editing features
+ - Related UI
+ - Bridge files connecting Native code with React Native
+   
+<h3>Tech Stack Used</h3>
+
+ - React Native
+ - Swift
+ - Objective-C
+
+
+<br><br>
+
+
+<a href="https://apps.apple.com/kr/app/hypy/id6476086514" target="blank">
+  <img align="center" src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/cd/1e/21cd1eb4-dab9-63e3-04f1-48604e6d8687/AppIcon-0-1x_U007emarketing-0-10-0-sRGB-85-220-0.png/460x0w.webp" alt="gautamkrishnar" height="70" width="70" />
+</a>
+
+<br>
+
+<h2>
+      HYPY 
+      
+<a href="https://apps.apple.com/kr/app/hypy/id6476086514" target="blank">
+      &nbsp;
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/App_Store_%28iOS%29.svg/1024px-App_Store_%28iOS%29.svg.png" alt="gautamkrishnar" height="25" width="25" />
+    
+</a>
+</h2>
+
+<br>
+
+<h3>Features I Developed</h3>
+
+ - Comprehensive camera functionality, including zoom, flash, and ultra-wide camera support.
+ - Facial filters.
+ - Live streaming using RTMP.
+ - Real-time chat functionality using WebSockets.
+ - Custom text popups and bottom sheets built with UIKit.
+ - Integrated structure combining UIKit and SwiftUI.
+
+   
+<h3>Tech Stack Used</h3>
+
+ - Swift
+ - SwiftUI
+ - UIKit
+ - Objective-C
+
+
+
+
+
+<br>
+
+--------------------------------------------------------------------------------------------------------
+
+<br>
+
 
 
 <h3>These day im workin on </h3>
