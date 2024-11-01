@@ -116,6 +116,7 @@
       - SMP (https://github.com/1domybest/CameraManagerLibrary) <br>
       - Example (https://github.com/1domybest/OTIS_CameraManager_Example)
 - [ ] Make Documents For CameraManager
+      - Document (https://1domybest.github.io/CameraManagerLibrary/documentation/cameramanagerframework/)
 - [ ] Make AudioManager FrameWork and SMP For XCode
 - [ ] Make CameraRecordMananger FrameWork and SMP For XCode
 - [ ] Make Video EncodeMananger FrameWork and SMP For XCode 
